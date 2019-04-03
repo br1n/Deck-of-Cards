@@ -1,0 +1,11 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.csprojAssemblyReference.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/round 2/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.pdb
